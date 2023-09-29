@@ -1,11 +1,14 @@
 # Changelog
 
-## [«unknown»](https://github.com/NASA-PDS/planetary-data-engine/tree/«unknown») (2023-06-29)
+## [«unknown»](https://github.com/NASA-PDS/planetary-data-engine/tree/«unknown») (2023-09-29)
 
 [Full Changelog](https://github.com/NASA-PDS/planetary-data-engine/compare/83606bcf11771b03fe7758debe5b6ea23a99b533...«unknown»)
 
 **Other closed issues:**
 
+- Add new data sources to the sinequa index [\#6](https://github.com/NASA-PDS/planetary-data-engine/issues/6)
+- Make requirement analysis & trade study for PDS Web Search [\#9](https://github.com/NASA-PDS/planetary-data-engine/issues/9)
+- Restrict Sinequa Sandbox search to PDS sources [\#4](https://github.com/NASA-PDS/planetary-data-engine/issues/4)
 - Prepare an assessment to compare existing PDS keyword search to the Science Discovery Engine \(SDE\) public interface. [\#3](https://github.com/NASA-PDS/planetary-data-engine/issues/3)
 - Define initial search engine requirements [\#1](https://github.com/NASA-PDS/planetary-data-engine/issues/1)
 
