@@ -1,11 +1,11 @@
 # Notebook to Demonstrate How to Use the Sinequa REST API to Search for PDS Data
 
-This repository contains a [Jupyter notebook](https://jupyter.org) that demonstrates how the [Sinequa](https://www.sinequa.com/product/search-cloud-platform/) REST API can be used to search for data in the [Planetary Data System](https://pds.nasa.gov/). You can incorporate these into your existing JupiyterLab notebooks for the plotting and exhibition of planetary and other scientific data, and use them as springboards for new notebooks. You can also run these notebooks directly on any Python-capable computer with a web browser.
+This repository contains a [Jupyter notebook](https://jupyter.org) to demonstrate how to use the [Sinequa](https://www.sinequa.com/product/search-cloud-platform/) REST API to search for data in the [Planetary Data System](https://pds.nasa.gov/). You can incorporate these into your existing JupyterLab notebooks for the plotting and exhibition of planetary and other scientific data, and use them as springboards for new notebooks. You can also run these notebooks directly on any Python-capable computer with a web browser.
 
 
 ## 🖥 Prerequisites
 
-To run these notebooks locally, you'll need [Python 3.7](https://python.org/) or later as well as a web browser.  This notebook has been tested with Anaconda Python version 3.11.5.
+To run these notebooks locally, you'll need [Python 3.7](https://python.org/) or later as well as a web browser.  This notebook has been tested with Python version 3.7.6.
 
 
 ## 🏃‍♀️ Getting Started
