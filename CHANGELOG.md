@@ -1,11 +1,16 @@
 # Changelog
 
-## [«unknown»](https://github.com/NASA-PDS/planetary-data-engine/tree/«unknown») (2023-10-03)
+## [«unknown»](https://github.com/NASA-PDS/planetary-data-engine/tree/«unknown») (2023-11-02)
 
 [Full Changelog](https://github.com/NASA-PDS/planetary-data-engine/compare/83606bcf11771b03fe7758debe5b6ea23a99b533...«unknown»)
 
+**Defects:**
+
+- Commits to the planetary-data-engine repo cannot be merged due to CI/CD build error related to sphinx [\#13](https://github.com/NASA-PDS/planetary-data-engine/issues/13)
+
 **Other closed issues:**
 
+- Working with Jupyter Notebook to show various features to be used by UI team [\#8](https://github.com/NASA-PDS/planetary-data-engine/issues/8)
 - Add new data sources to the sinequa index [\#6](https://github.com/NASA-PDS/planetary-data-engine/issues/6)
 - Make requirement analysis & trade study for PDS Web Search [\#9](https://github.com/NASA-PDS/planetary-data-engine/issues/9)
 - Restrict Sinequa Sandbox search to PDS sources [\#4](https://github.com/NASA-PDS/planetary-data-engine/issues/4)
