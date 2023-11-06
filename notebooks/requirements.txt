@@ -1,4 +1,4 @@
 json5==0.9.6
-jupyterlab==3.6.6
+jupyterlab==4.0.8
 requests==2.31.0
 urllib3==2.0.6
